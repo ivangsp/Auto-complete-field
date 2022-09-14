@@ -2,7 +2,11 @@
 
 ## How to run the application
 
- To run the application in development mode, run `npm start`
+- Make sure you have node >16 
+
+- Install the dependencies by running `npm install` 
+
+- Run  the application in development mode by running `npm start`
 
 ## How to run Tests
 
